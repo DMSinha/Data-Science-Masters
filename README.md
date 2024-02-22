@@ -1,2 +1,2 @@
-# Data-Science-Masters
+# Data-Science-Assignments
 Day Wise Learnings
